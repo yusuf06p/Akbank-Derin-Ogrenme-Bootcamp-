@@ -52,4 +52,4 @@ Linkten açıp çalıştırmanız yeterlidir. Eğitim süresi kısa tutulmuştur
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Dilediğiniz gibi kullanabilirsiniz.
 
 ## 🙏 Teşekkür  
-Bu projede sağladıkları eğitim ve rehberlik için **Global AI Hub ekibine teşekkürler**.
+Bu projede sağladıkları eğitim ve rehberlik için **Turkish AI Hub ekibine teşekkürler**.
